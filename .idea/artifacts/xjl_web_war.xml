@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="xjl-web:war">
+    <output-path>$PROJECT_DIR$/xjl-web/target</output-path>
+    <root id="archive" name="xjl.war">
+      <element id="artifact" artifact-name="xjl-web:war exploded" />
+    </root>
+  </artifact>
+</component>
